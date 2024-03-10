@@ -1,0 +1,4 @@
+xmltodict
+aiohttp
+aiofiles
+loguru
